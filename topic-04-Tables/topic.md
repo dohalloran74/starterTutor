@@ -1,3 +1,3 @@
-# HTML Tables
+#HTML Tables
 
-This section looks at creating and styling tables.
+This section looks at creating and styling tables
